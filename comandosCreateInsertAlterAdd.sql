@@ -1,0 +1,1 @@
+SELECT * FROM rentingsdb2.alquileres;
